@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "479d279748acbbaa",
+        "id": "ce550f057575b76d",
         "type": "tabs",
         "children": [
           {
-            "id": "675d6199fede4a7d",
+            "id": "c88dc44b50f57873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automation/Python/База.md",
+                "file": "Life/Всё подряд/Первый блокнот/Пикап.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automation/Python/База.md",
+                "file": "Life/Всё подряд/Первый блокнот/Пикап.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automation/Python/База.md",
+                "file": "Life/Всё подряд/Первый блокнот/Пикап.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automation/Python/База.md"
+                "file": "Life/Всё подряд/Первый блокнот/Пикап.md"
               }
             }
           },
@@ -157,13 +157,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "675d6199fede4a7d",
+  "active": "7bcdd4c16de3ed43",
   "lastOpenFiles": [
+    "Life/Всё подряд/Первый блокнот/Пикап.md",
+    "Automation/Python/База.md",
     "Automation/Python/Итерируемые объекты и циклы.md",
     "Automation/Python/Собес.md",
     "Automation/Python/Строки.md",
     "Automation/Python/Списки.md",
-    "Automation/Python/База.md",
     "Life/Всё подряд/Первый блокнот/Сон.md",
     "venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/__init__.cpython-311.pyc",
     "venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/_tokenizer.cpython-311.pyc",
